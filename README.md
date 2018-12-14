@@ -1,6 +1,6 @@
 # AutoDivideMovie
   sample of the result, see: https://www.bilibili.com/video/av37495576/
-  =========Brochure============
+  =========Brochure============<br /> 
   1.After downloading the zip into your workspace, unpack it and establish a folder named "movie";
   2.Put the movie you want to cut into the folder;
   3.Run D0_Integration (most of the parameters are in it, and you can change it), and you will find your clips in "movie";
